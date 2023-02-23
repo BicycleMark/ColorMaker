@@ -2,6 +2,9 @@
 
 namespace ColorMaker;
 
+/// <summary>
+/// The Main App
+/// </summary>
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
